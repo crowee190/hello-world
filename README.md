@@ -1,2 +1,6 @@
 # hello-world
-Just another hello-world repository
+
+    Hi folks!
+
+Crowee here, I like programming.
+Now, I'm learning Python.
